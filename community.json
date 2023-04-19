@@ -1,0 +1,3073 @@
+[
+  {
+    "id": "accumulo/core",
+    "purl": "pkg:asf/accumulo/core",
+    "cpe": "cpe:2.3:a:apache:accumulo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.accumulo:accumulo-core"
+      }
+    ]
+  },
+  {
+    "id": "activemq/artemis",
+    "purl": "pkg:asf/activemq/artemis",
+    "cpe": "cpe:2.3:a:apache:activemq_artemis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:apache-artemis"
+      }
+    ]
+  },
+  {
+    "id": "activemq/artemis-commons",
+    "purl": "pkg:asf/activemq/artemis-commons",
+    "cpe": "cpe:2.3:a:apache:activemq_artemis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:artemis-commons"
+      }
+    ]
+  },
+  {
+    "id": "activemq/artemis-server",
+    "purl": "pkg:asf/activemq/artemis-server",
+    "cpe": "cpe:2.3:a:apache:activemq_artemis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:artemis-server"
+      }
+    ]
+  },
+  {
+    "id": "activemq/client",
+    "purl": "pkg:asf/activemq/client",
+    "cpe": "cpe:2.3:a:apache:activemq",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:activemq-client"
+      }
+    ]
+  },
+  {
+    "id": "activemq/openwire-generator",
+    "purl": "pkg:asf/activemq/openwire-generator",
+    "cpe": "cpe:2.3:a:apache:activemq",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:activemq-openwire-generator"
+      }
+    ]
+  },
+  {
+    "id": "activemq/parent",
+    "purl": "pkg:asf/activemq/parent",
+    "cpe": "cpe:2.3:a:apache:activemq",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:activemq-parent"
+      }
+    ]
+  },
+  {
+    "id": "activemq/web-console",
+    "purl": "pkg:asf/activemq/web-console",
+    "cpe": "cpe:2.3:a:apache:activemq",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.activemq:activemq-web-console"
+      }
+    ]
+  },
+  {
+    "id": "age",
+    "purl": "pkg:asf/age",
+    "cpe": "cpe:2.3:a:apache:age",
+  },
+  {
+    "id": "airavata/django_portal",
+    "purl": "pkg:asf/airavata/django_portal",
+    "cpe": "cpe:2.3:a:apache:airavata",
+  },
+  {
+    "id": "airflow",
+    "purl": "pkg:asf/airflow",
+    "cpe": "cpe:2.3:a:apache:airflow",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-amazon",
+    "purl": "pkg:asf/airflow/providers-amazon",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-amazon",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-amazon"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-apache-hive",
+    "purl": "pkg:asf/airflow/providers-apache-hive",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-apache-hive",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-hive"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-apache-pig",
+    "purl": "pkg:asf/airflow/providers-apache-pig",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-apache-pig",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-pig"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-apache-pinot",
+    "purl": "pkg:asf/airflow/providers-apache-pinot",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-apache-pinot",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-pinot"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-apache-spark",
+    "purl": "pkg:asf/airflow/providers-apache-spark",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-apache-spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-spark"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-docker",
+    "purl": "pkg:asf/airflow/providers-docker",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-docker",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-docker"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-google",
+    "purl": "pkg:asf/airflow/providers-google",
+    "cpe": "cpe:2.3:a:apache:apache-airflow-providers-google",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-google"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-hive",
+    "purl": "pkg:asf/airflow/providers-hive",
+    "cpe": "cpe:2.3:a:apache:airflow_hive_provider",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-hive"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-mysql",
+    "purl": "pkg:asf/airflow/providers-mysql",
+    "cpe": "cpe:2.3:a:apache:airflow_msql_provider",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-mysql"
+      }
+    ]
+  },
+  {
+    "id": "airflow/providers-sqoop",
+    "purl": "pkg:asf/airflow/providers-sqoop",
+    "cpe": "cpe:2.3:a:apache:airflow_sqoop_provider",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-airflow-providers-apache-sqoop"
+      }
+    ]
+  },
+  {
+    "id": "allura",
+    "purl": "pkg:asf/allura",
+    "cpe": "cpe:2.3:a:apache:allura",
+  },
+  {
+    "id": "ambari",
+    "purl": "pkg:asf/ambari",
+    "cpe": "cpe:2.3:a:apache:ambari",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ambari:ambari"
+      }
+    ]
+  },
+  {
+    "id": "ant",
+    "purl": "pkg:asf/ant",
+    "cpe": "cpe:2.3:a:apache:ant",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ant:ant"
+      }
+    ]
+  },
+  {
+    "id": "ant/ivy",
+    "purl": "pkg:asf/ant/ivy",
+    "cpe": "cpe:2.3:a:apache:ivy",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ivy:ivy"
+      }
+    ]
+  },
+  {
+    "id": "any23",
+    "purl": "pkg:asf/any23",
+    "cpe": "cpe:2.3:a:apache:any23",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.any23:apache-any23"
+      }
+    ]
+  },
+  {
+    "id": "apisix",
+    "purl": "pkg:asf/apisix",
+    "cpe": "cpe:2.3:a:apache:apisix",
+  },
+  {
+    "id": "apisix/dashboard",
+    "purl": "pkg:asf/apisix/dashboard",
+    "cpe": "cpe:2.3:a:apache:apisix_dashboard",
+  },
+  {
+    "id": "archiva",
+    "purl": "pkg:asf/archiva",
+    "cpe": "cpe:2.3:a:apache:archiva",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.archiva:archiva"
+      }
+    ]
+  },
+  {
+    "id": "archiva/common",
+    "purl": "pkg:asf/archiva/common",
+    "cpe": "cpe:2.3:a:apache:archiva",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.archiva:archiva-common"
+      }
+    ]
+  },
+  {
+    "id": "arrow/pyarrow",
+    "purl": "pkg:asf/arrow/pyarrow",
+    "cpe": "cpe:2.3:a:apache:arrow",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "pyarrow"
+      }
+    ]
+  },
+  {
+    "id": "arrow/red-arrow",
+    "purl": "pkg:asf/arrow/red-arrow",
+    "cpe": "cpe:2.3:a:apache:arrow",
+    "ecosystems" : [
+      {
+        "ecosystem": "RubyGems",
+        "name": "red-arrow"
+      }
+    ]
+  },
+  {
+    "id": "atlas",
+    "purl": "pkg:asf/atlas",
+    "cpe": "cpe:2.3:a:apache:atlas",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.atlas:apache-atlas"
+      }
+    ]
+  },
+  {
+    "id": "atlas/common",
+    "purl": "pkg:asf/atlas/common",
+    "cpe": "cpe:2.3:a:apache:atlas",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.atlas:atlas-common"
+      }
+    ]
+  },
+  {
+    "id": "avro",
+    "purl": "pkg:asf/avro",
+    "cpe": "cpe:2.3:a:apache:avro",
+    "ecosystems" : [
+      {
+        "ecosystem": "crates.io",
+        "name": "apache-avro"
+      }
+    ]
+  },
+  {
+    "id": "avro/Apache.Avro",
+    "purl": "pkg:asf/avro/Apache.Avro",
+    "cpe": "cpe:2.3:a:apache:avro",
+    "ecosystems" : [
+      {
+        "ecosystem": "NuGet",
+        "name": "Apache.Avro"
+      }
+    ]
+  },
+  {
+    "id": "axis",
+    "purl": "pkg:asf/axis",
+    "cpe": "cpe:2.3:a:apache:axis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "axis:axis"
+      },
+{
+        "ecosystem": "Maven",
+        "name": "org.apache.axis:axis"
+      }
+    ]
+  },
+  {
+    "id": "beam/sdks-java-io-mongodb",
+    "purl": "pkg:asf/beam/sdks-java-io-mongodb",
+    "cpe": "cpe:2.3:a:apache:beam",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.beam:beam-sdks-java-io-mongodb"
+      }
+    ]
+  },
+  {
+    "id": "bookkeeper/common",
+    "purl": "pkg:asf/bookkeeper/common",
+    "cpe": "cpe:2.3:a:apache:bookkeeper",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.bookkeeper:bookkeeper-common"
+      }
+    ]
+  },
+  {
+    "id": "brooklyn",
+    "purl": "pkg:asf/brooklyn",
+    "cpe": "cpe:2.3:a:apache:brooklyn",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.brooklyn:brooklyn"
+      }
+    ]
+  },
+  {
+    "id": "calcite/avatica-core",
+    "purl": "pkg:asf/calcite/avatica-core",
+    "cpe": "cpe:2.3:a:apache:apache_calcite_avatica",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.calcite.avatica:avatica-core"
+      }
+    ]
+  },
+  {
+    "id": "calcite/core",
+    "purl": "pkg:asf/calcite/core",
+    "cpe": "cpe:2.3:a:apache:calcite",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.calcite:calcite-core"
+      }
+    ]
+  },
+  {
+    "id": "calcite/druid",
+    "purl": "pkg:asf/calcite/druid",
+    "cpe": "cpe:2.3:a:apache:calcite",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.calcite:calcite-druid"
+      }
+    ]
+  },
+  {
+    "id": "calcite/splunk",
+    "purl": "pkg:asf/calcite/splunk",
+    "cpe": "cpe:2.3:a:apache:calcite",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.calcite:calcite-splunk"
+      }
+    ]
+  },
+  {
+    "id": "camel",
+    "purl": "pkg:asf/camel",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache:camel"
+      }
+    ]
+  },
+  {
+    "id": "camel/castor",
+    "purl": "pkg:asf/camel/castor",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-castor"
+      }
+    ]
+  },
+  {
+    "id": "camel/core",
+    "purl": "pkg:asf/camel/core",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-core"
+      }
+    ]
+  },
+  {
+    "id": "camel/hessian",
+    "purl": "pkg:asf/camel/hessian",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-hessian"
+      }
+    ]
+  },
+  {
+    "id": "camel/jackson",
+    "purl": "pkg:asf/camel/jackson",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-jackson"
+      }
+    ]
+  },
+  {
+    "id": "camel/ldap",
+    "purl": "pkg:asf/camel/ldap",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-ldap"
+      }
+    ]
+  },
+  {
+    "id": "camel/mail",
+    "purl": "pkg:asf/camel/mail",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-mail"
+      }
+    ]
+  },
+  {
+    "id": "camel/netty",
+    "purl": "pkg:asf/camel/netty",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-netty"
+      }
+    ]
+  },
+  {
+    "id": "camel/rabbitmq",
+    "purl": "pkg:asf/camel/rabbitmq",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-rabbitmq"
+      }
+    ]
+  },
+  {
+    "id": "camel/robotframework",
+    "purl": "pkg:asf/camel/robotframework",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-robotframework"
+      }
+    ]
+  },
+  {
+    "id": "camel/snakeyaml",
+    "purl": "pkg:asf/camel/snakeyaml",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-snakeyaml"
+      }
+    ]
+  },
+  {
+    "id": "camel/xmljson",
+    "purl": "pkg:asf/camel/xmljson",
+    "cpe": "cpe:2.3:a:apache:camel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.camel:camel-xmljson"
+      }
+    ]
+  },
+  {
+    "id": "cassandra/all",
+    "purl": "pkg:asf/cassandra/all",
+    "cpe": "cpe:2.3:a:apache:cassandra",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.cassandra:cassandra-all"
+      }
+    ]
+  },
+  {
+    "id": "cayenne/parent",
+    "purl": "pkg:asf/cayenne/parent",
+    "cpe": "cpe:2.3:a:apache:cayenne",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.cayenne:cayenne-parent"
+      }
+    ]
+  },
+  {
+    "id": "cayenne/server",
+    "purl": "pkg:asf/cayenne/server",
+    "cpe": "cpe:2.3:a:apache:cayenne",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.cayenne:cayenne-server"
+      }
+    ]
+  },
+  {
+    "id": "commons/bcel",
+    "purl": "pkg:asf/commons/bcel",
+    "cpe": "cpe:2.3:a:apache:commons_bcel",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.bcel:bcel"
+      }
+    ]
+  },
+  {
+    "id": "commons/beanutils",
+    "purl": "pkg:asf/commons/beanutils",
+    "cpe": "cpe:2.3:a:apache:commons_beanutils",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "commons-beanutils:commons-beanutils"
+      }
+    ]
+  },
+  {
+    "id": "commons/compress",
+    "purl": "pkg:asf/commons/compress",
+    "cpe": "cpe:2.3:a:apache:commons_compress",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.commons:commons-compress"
+      }
+    ]
+  },
+  {
+    "id": "commons/configuration2",
+    "purl": "pkg:asf/commons/configuration2",
+    "cpe": "cpe:2.3:a:apache:commons_configuration",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.commons:commons-configuration2"
+      }
+    ]
+  },
+  {
+    "id": "commons/email",
+    "purl": "pkg:asf/commons/email",
+    "cpe": "cpe:2.3:a:apache:commons_email",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.commons:commons-email"
+      }
+    ]
+  },
+  {
+    "id": "commons/fileupload",
+    "purl": "pkg:asf/commons/fileupload",
+    "cpe": "cpe:2.3:a:apache:commons_fileupload",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "commons-fileupload:commons-fileupload"
+      }
+    ]
+  },
+  {
+    "id": "commons/io",
+    "purl": "pkg:asf/commons/io",
+    "cpe": "cpe:2.3:a:apache:commons_io",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "commons-io:commons-io"
+      }
+    ]
+  },
+  {
+    "id": "commons/jelly",
+    "purl": "pkg:asf/commons/jelly",
+    "cpe": "cpe:2.3:a:apache:commons_jelly",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "commons-jelly:commons-jelly"
+      }
+    ]
+  },
+  {
+    "id": "commons/net",
+    "purl": "pkg:asf/commons/net",
+    "cpe": "cpe:2.3:a:apache:commons_net",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "commons-net:commons-net"
+      }
+    ]
+  },
+  {
+    "id": "commons/sanselan",
+    "purl": "pkg:asf/commons/sanselan",
+    "cpe": "cpe:2.3:a:apache:commons_imaging",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sanselan:sanselan"
+      }
+    ]
+  },
+  {
+    "id": "commons/text",
+    "purl": "pkg:asf/commons/text",
+    "cpe": "cpe:2.3:a:apache:commons_text",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.commons:commons-text"
+      }
+    ]
+  },
+  {
+    "id": "cordova/android",
+    "purl": "pkg:asf/cordova/android",
+    "cpe": "cpe:2.3:a:apache:cordova",
+    "ecosystems" : [
+      {
+        "ecosystem": "npm",
+        "name": "cordova-android"
+      }
+    ]
+  },
+  {
+    "id": "cordova/plugin-inappbrowser",
+    "purl": "pkg:asf/cordova/plugin-inappbrowser",
+    "cpe": "cpe:2.3:a:apache:cordova_inappbrowser",
+    "ecosystems" : [
+      {
+        "ecosystem": "npm",
+        "name": "cordova-plugin-inappbrowser"
+      }
+    ]
+  },
+  {
+    "id": "couchdb",
+    "purl": "pkg:asf/couchdb",
+    "cpe": "cpe:2.3:a:apache:couchdb",
+  },
+  {
+    "id": "db/ddlutils",
+    "purl": "pkg:asf/db/ddlutils",
+    "cpe": "cpe:2.3:a:apache:ddlutils",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ddlutils:ddlutils"
+      }
+    ]
+  },
+  {
+    "id": "db/derby",
+    "purl": "pkg:asf/db/derby",
+    "cpe": "cpe:2.3:a:apache:derby",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.derby:derby"
+      }
+    ]
+  },
+  {
+    "id": "deltaspike",
+    "purl": "pkg:asf/deltaspike",
+    "cpe": "cpe:2.3:a:apache:deltaspike",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.deltaspike:deltaspike"
+      }
+    ]
+  },
+  {
+    "id": "deltaspike/jsf-module-project",
+    "purl": "pkg:asf/deltaspike/jsf-module-project",
+    "cpe": "cpe:2.3:a:apache:deltaspike",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.deltaspike.modules:jsf-module-project"
+      }
+    ]
+  },
+  {
+    "id": "directory/fortress",
+    "purl": "pkg:asf/directory/fortress",
+    "cpe": "cpe:2.3:a:apache:fortress",
+  },
+  {
+    "id": "directory/ldap-api",
+    "purl": "pkg:asf/directory/ldap-api",
+    "cpe": "cpe:2.3:a:apache:directory_ldap_api",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.directory.api:apache-ldap-api"
+      }
+    ]
+  },
+  {
+    "id": "directory/ldap-backend",
+    "purl": "pkg:asf/directory/ldap-backend",
+    "cpe": "cpe:2.3:a:apache:kerby",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kerby:ldap-backend"
+      }
+    ]
+  },
+  {
+    "id": "directory/studio.parent",
+    "purl": "pkg:asf/directory/studio.parent",
+    "cpe": "cpe:2.3:a:apache:directory_studio",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.directory.studio:org.apache.directory.studio.parent"
+      }
+    ]
+  },
+  {
+    "id": "dolphinscheduler",
+    "purl": "pkg:asf/dolphinscheduler",
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dolphinscheduler:dolphinscheduler"
+      }
+    ]
+  },
+  {
+    "id": "dolphinscheduler/alert-plugins",
+    "purl": "pkg:asf/dolphinscheduler/alert-plugins",
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dolphinscheduler:dolphinscheduler-alert-plugins"
+      }
+    ]
+  },
+  {
+    "id": "dolphinscheduler/common",
+    "purl": "pkg:asf/dolphinscheduler/common",
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dolphinscheduler:dolphinscheduler-common"
+      }
+    ]
+  },
+  {
+    "id": "dolphinscheduler/pydolphinscheduler",
+    "purl": "pkg:asf/dolphinscheduler/pydolphinscheduler",
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-dolphinscheduler"
+      }
+    ]
+  },
+  {
+    "id": "dolphinscheduler/server",
+    "purl": "pkg:asf/dolphinscheduler/server",
+    "cpe": "cpe:2.3:a:apache:dolphinscheduler",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dolphinscheduler:dolphinscheduler-server"
+      }
+    ]
+  },
+  {
+    "id": "doris",
+    "purl": "pkg:asf/doris",
+    "cpe": "cpe:2.3:a:apache:doris",
+  },
+  {
+    "id": "drill/common",
+    "purl": "pkg:asf/drill/common",
+    "cpe": "cpe:2.3:a:apache:drill",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.drill:drill-common"
+      }
+    ]
+  },
+  {
+    "id": "druid",
+    "purl": "pkg:asf/druid",
+    "cpe": "cpe:2.3:a:apache:druid",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.druid:druid"
+      }
+    ]
+  },
+  {
+    "id": "dubbo",
+    "purl": "pkg:asf/dubbo",
+    "cpe": "cpe:2.3:a:apache:dubbo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dubbo:dubbo"
+      }
+    ]
+  },
+  {
+    "id": "dubbo/common",
+    "purl": "pkg:asf/dubbo/common",
+    "cpe": "cpe:2.3:a:apache:dubbo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dubbo:dubbo-common"
+      }
+    ]
+  },
+  {
+    "id": "dubbo/parent",
+    "purl": "pkg:asf/dubbo/parent",
+    "cpe": "cpe:2.3:a:apache:dubbo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dubbo:dubbo-parent"
+      }
+    ]
+  },
+  {
+    "id": "dubbo/rpc-http-invoker",
+    "purl": "pkg:asf/dubbo/rpc-http-invoker",
+    "cpe": "cpe:2.3:a:apache:dubbo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.dubbo:dubbo-rpc-http-invoker"
+      }
+    ]
+  },
+  {
+    "id": "flink/core",
+    "purl": "pkg:asf/flink/core",
+    "cpe": "cpe:2.3:a:apache:flink",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flink:flink-core"
+      }
+    ]
+  },
+  {
+    "id": "flink/parent",
+    "purl": "pkg:asf/flink/parent",
+    "cpe": "cpe:2.3:a:apache:flink",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flink:flink-parent"
+      }
+    ]
+  },
+  {
+    "id": "flink/runtime?scalaVersion=2.11",
+    "purl": "pkg:asf/flink/runtime?scalaVersion=2.11",
+    "cpe": "cpe:2.3:a:apache:flink",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flink:flink-runtime_2.11"
+      }
+    ]
+  },
+  {
+    "id": "flink/runtime?scalaVersion=2.12",
+    "purl": "pkg:asf/flink/runtime?scalaVersion=2.12",
+    "cpe": "cpe:2.3:a:apache:flink",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flink:flink-runtime_2.12"
+      }
+    ]
+  },
+  {
+    "id": "flume/jms-source",
+    "purl": "pkg:asf/flume/jms-source",
+    "cpe": "cpe:2.3:a:apache:flume",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flume.flume-ng-sources:flume-jms-source"
+      }
+    ]
+  },
+  {
+    "id": "flume/parent",
+    "purl": "pkg:asf/flume/parent",
+    "cpe": "cpe:2.3:a:apache:flume",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.flume:flume-parent"
+      }
+    ]
+  },
+  {
+    "id": "geode",
+    "purl": "pkg:asf/geode",
+    "cpe": "cpe:2.3:a:apache:geode",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.geode:apache-geode"
+      }
+    ]
+  },
+  {
+    "id": "geode/core",
+    "purl": "pkg:asf/geode/core",
+    "cpe": "cpe:2.3:a:apache:geode",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.geode:geode-core"
+      }
+    ]
+  },
+  {
+    "id": "gobblin/core",
+    "purl": "pkg:asf/gobblin/core",
+    "cpe": "cpe:2.3:a:apache:gobblin",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.gobblin:gobblin-core"
+      }
+    ]
+  },
+  {
+    "id": "guacamole/common",
+    "purl": "pkg:asf/guacamole/common",
+    "cpe": "cpe:2.3:a:apache:guacamole",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.guacamole:guacamole-common"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/client",
+    "purl": "pkg:asf/hadoop/client",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-client"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/common",
+    "purl": "pkg:asf/hadoop/common",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-common"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/main",
+    "purl": "pkg:asf/hadoop/main",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-main"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/yarn-server",
+    "purl": "pkg:asf/hadoop/yarn-server",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-yarn-server"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/yarn-server-common",
+    "purl": "pkg:asf/hadoop/yarn-server-common",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-yarn-server-common"
+      }
+    ]
+  },
+  {
+    "id": "hadoop/yarn-server-nodemanager",
+    "purl": "pkg:asf/hadoop/yarn-server-nodemanager",
+    "cpe": "cpe:2.3:a:apache:hadoop",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hadoop:hadoop-yarn-server-nodemanager"
+      }
+    ]
+  },
+  {
+    "id": "hama/core",
+    "purl": "pkg:asf/hama/core",
+    "cpe": "cpe:2.3:a:apache:hama",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hama:hama-core"
+      }
+    ]
+  },
+  {
+    "id": "hbase",
+    "purl": "pkg:asf/hbase",
+    "cpe": "cpe:2.3:a:apache:hbase",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hbase:hbase"
+      }
+    ]
+  },
+  {
+    "id": "hbase/thrift",
+    "purl": "pkg:asf/hbase/thrift",
+    "cpe": "cpe:2.3:a:apache:hbase",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hbase:hbase-thrift"
+      }
+    ]
+  },
+  {
+    "id": "helix",
+    "purl": "pkg:asf/helix",
+    "cpe": "cpe:2.3:a:apache:helix",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.helix:helix"
+      }
+    ]
+  },
+  {
+    "id": "heron/api",
+    "purl": "pkg:asf/heron/api",
+    "cpe": "cpe:2.3:a:apache:heron",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.heron:heron-api"
+      }
+    ]
+  },
+  {
+    "id": "heron/simulator",
+    "purl": "pkg:asf/heron/simulator",
+    "cpe": "cpe:2.3:a:apache:heron",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.heron:heron-simulator"
+      }
+    ]
+  },
+  {
+    "id": "hive",
+    "purl": "pkg:asf/hive",
+    "cpe": "cpe:2.3:a:apache:hive",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hive:hive"
+      }
+    ]
+  },
+  {
+    "id": "hive/exec",
+    "purl": "pkg:asf/hive/exec",
+    "cpe": "cpe:2.3:a:apache:hive",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hive:hive-exec"
+      }
+    ]
+  },
+  {
+    "id": "hive/jdbc",
+    "purl": "pkg:asf/hive/jdbc",
+    "cpe": "cpe:2.3:a:apache:hive",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hive:hive-jdbc"
+      }
+    ]
+  },
+  {
+    "id": "hive/service",
+    "purl": "pkg:asf/hive/service",
+    "cpe": "cpe:2.3:a:apache:hive",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.hive:hive-service"
+      }
+    ]
+  },
+  {
+    "id": "httpcomponents/httpclient",
+    "purl": "pkg:asf/httpcomponents/httpclient",
+    "cpe": "cpe:2.3:a:apache:httpclient",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.httpcomponents:httpclient"
+      }
+    ]
+  },
+  {
+    "id": "httpd",
+    "purl": "pkg:asf/httpd",
+    "cpe": "cpe:2.3:a:apache:http_server",
+  },
+  {
+    "id": "httpd/apreq",
+    "purl": "pkg:asf/httpd/apreq",
+    "cpe": "cpe:2.3:a:apache:libapreq2",
+  },
+  {
+    "id": "ignite/core",
+    "purl": "pkg:asf/ignite/core",
+    "cpe": "cpe:2.3:a:apache:ignite",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ignite:ignite-core"
+      }
+    ]
+  },
+  {
+    "id": "impala",
+    "purl": "pkg:asf/impala",
+    "cpe": "cpe:2.3:a:apache:impala",
+  },
+  {
+    "id": "inlong",
+    "purl": "pkg:asf/inlong",
+    "cpe": "cpe:2.3:a:apache:inlong",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.inlong:inlong"
+      }
+    ]
+  },
+  {
+    "id": "inlong/common",
+    "purl": "pkg:asf/inlong/common",
+    "cpe": "cpe:2.3:a:apache:inlong",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.inlong:inlong-common"
+      }
+    ]
+  },
+  {
+    "id": "iotdb",
+    "purl": "pkg:asf/iotdb",
+    "cpe": "cpe:2.3:a:apache:iotdb",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "apache-iotdb"
+      }
+    ]
+  },
+  {
+    "id": "iotdb/grafana-connector",
+    "purl": "pkg:asf/iotdb/grafana-connector",
+    "cpe": "cpe:2.3:a:apache:iotdb",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.iotdb:iotdb-grafana-connector"
+      }
+    ]
+  },
+  {
+    "id": "iotdb/parent",
+    "purl": "pkg:asf/iotdb/parent",
+    "cpe": "cpe:2.3:a:apache:iotdb",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.iotdb:iotdb-parent"
+      }
+    ]
+  },
+  {
+    "id": "iotdb/server",
+    "purl": "pkg:asf/iotdb/server",
+    "cpe": "cpe:2.3:a:apache:iotdb",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.iotdb:iotdb-server"
+      }
+    ]
+  },
+  {
+    "id": "isis/core",
+    "purl": "pkg:asf/isis/core",
+    "cpe": "cpe:2.3:a:apache:isis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.isis.core:isis-core"
+      }
+    ]
+  },
+  {
+    "id": "jackrabbit/oak-core",
+    "purl": "pkg:asf/jackrabbit/oak-core",
+    "cpe": "cpe:2.3:a:apache:jackrabbit_oak",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jackrabbit:oak-core"
+      }
+    ]
+  },
+  {
+    "id": "james/hupa",
+    "purl": "pkg:asf/james/hupa",
+    "cpe": "cpe:2.3:a:apache:james",
+  },
+  {
+    "id": "james/mime4j",
+    "purl": "pkg:asf/james/mime4j",
+    "cpe": "cpe:2.3:a:apache:james",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.james:apache-mime4j"
+      }
+    ]
+  },
+  {
+    "id": "james/server",
+    "purl": "pkg:asf/james/server",
+    "cpe": "cpe:2.3:a:apache:james",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.james:james-server"
+      }
+    ]
+  },
+  {
+    "id": "jena",
+    "purl": "pkg:asf/jena",
+    "cpe": "cpe:2.3:a:apache:jena",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jena:jena"
+      }
+    ]
+  },
+  {
+    "id": "jena/core",
+    "purl": "pkg:asf/jena/core",
+    "cpe": "cpe:2.3:a:apache:jena",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jena:jena-core"
+      }
+    ]
+  },
+  {
+    "id": "jena/fuseki",
+    "purl": "pkg:asf/jena/fuseki",
+    "cpe": "cpe:2.3:a:apache:jena_fuseki",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jena:jena-fuseki"
+      }
+    ]
+  },
+  {
+    "id": "jena/sdb",
+    "purl": "pkg:asf/jena/sdb",
+    "cpe": "cpe:2.3:a:apache:jena_sdb",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jena:jena-sdb"
+      }
+    ]
+  },
+  {
+    "id": "jmeter/ApacheJMeter",
+    "purl": "pkg:asf/jmeter/ApacheJMeter",
+    "cpe": "cpe:2.3:a:apache:jmeter",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jmeter:ApacheJMeter"
+      }
+    ]
+  },
+  {
+    "id": "jspwiki/main",
+    "purl": "pkg:asf/jspwiki/main",
+    "cpe": "cpe:2.3:a:apache:jspwiki",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jspwiki:jspwiki-main"
+      }
+    ]
+  },
+  {
+    "id": "jspwiki/war",
+    "purl": "pkg:asf/jspwiki/war",
+    "cpe": "cpe:2.3:a:apache:jspwiki",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.jspwiki:jspwiki-war"
+      }
+    ]
+  },
+  {
+    "id": "juddi/client",
+    "purl": "pkg:asf/juddi/client",
+    "cpe": "cpe:2.3:a:apache:juddi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.juddi:juddi-client"
+      }
+    ]
+  },
+  {
+    "id": "juddi/core",
+    "purl": "pkg:asf/juddi/core",
+    "cpe": "cpe:2.3:a:apache:juddi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.juddi:juddi-core"
+      }
+    ]
+  },
+  {
+    "id": "kafka",
+    "purl": "pkg:asf/kafka",
+    "cpe": "cpe:2.3:a:apache:kafka",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kafka:kafka"
+      }
+    ]
+  },
+  {
+    "id": "kafka/clients",
+    "purl": "pkg:asf/kafka/clients",
+    "cpe": "cpe:2.3:a:apache:kafka",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kafka:kafka-clients"
+      }
+    ]
+  },
+  {
+    "id": "kafka/connect",
+    "purl": "pkg:asf/kafka/connect",
+    "cpe": "cpe:2.3:a:apache:kafka",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kafka:connect"
+      }
+    ]
+  },
+  {
+    "id": "knox/gateway-service-knoxsso",
+    "purl": "pkg:asf/knox/gateway-service-knoxsso",
+    "cpe": "cpe:2.3:a:apache:knox",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.knox:gateway-service-knoxsso"
+      }
+    ]
+  },
+  {
+    "id": "kylin",
+    "purl": "pkg:asf/kylin",
+    "cpe": "cpe:2.3:a:apache:kylin",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kylin:kylin"
+      }
+    ]
+  },
+  {
+    "id": "kylin/core-common",
+    "purl": "pkg:asf/kylin/core-common",
+    "cpe": "cpe:2.3:a:apache:kylin",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kylin:kylin-core-common"
+      }
+    ]
+  },
+  {
+    "id": "kylin/server-base",
+    "purl": "pkg:asf/kylin/server-base",
+    "cpe": "cpe:2.3:a:apache:kylin",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.kylin:kylin-server-base"
+      }
+    ]
+  },
+  {
+    "id": "linkis",
+    "purl": "pkg:asf/linkis",
+    "cpe": "cpe:2.3:a:apache:linkis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.linkis:linkis"
+      }
+    ]
+  },
+  {
+    "id": "livy/main",
+    "purl": "pkg:asf/livy/main",
+    "cpe": "cpe:2.3:a:apache:livy",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.livy:livy-main"
+      }
+    ]
+  },
+  {
+    "id": "logging/log4j",
+    "purl": "pkg:asf/logging/log4j",
+    "cpe": "cpe:2.3:a:apache:log4j",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "log4j:log4j"
+      },
+{
+        "ecosystem": "Maven",
+        "name": "org.apache.logging.log4j:log4j"
+      }
+    ]
+  },
+  {
+    "id": "logging/log4j-chainsaw",
+    "purl": "pkg:asf/logging/log4j-chainsaw",
+    "cpe": "cpe:2.3:a:apache:chainsaw",
+  },
+  {
+    "id": "logging/log4j-core",
+    "purl": "pkg:asf/logging/log4j-core",
+    "cpe": "cpe:2.3:a:apache:log4j",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.logging.log4j:log4j-core"
+      }
+    ]
+  },
+  {
+    "id": "logging/log4net",
+    "purl": "pkg:asf/logging/log4net",
+    "cpe": "cpe:2.3:a:apache:log4net",
+    "ecosystems" : [
+      {
+        "ecosystem": "NuGet",
+        "name": "log4net"
+      }
+    ]
+  },
+  {
+    "id": "manifoldcf",
+    "purl": "pkg:asf/manifoldcf",
+    "cpe": "cpe:2.3:a:apache:manifoldcf",
+  },
+  {
+    "id": "maven",
+    "purl": "pkg:asf/maven",
+    "cpe": "cpe:2.3:a:apache:maven",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.maven:maven"
+      }
+    ]
+  },
+  {
+    "id": "maven/shared-utils",
+    "purl": "pkg:asf/maven/shared-utils",
+    "cpe": "cpe:2.3:a:apache:maven_shared_utils",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.maven.shared:maven-shared-utils"
+      }
+    ]
+  },
+  {
+    "id": "mesos",
+    "purl": "pkg:asf/mesos",
+    "cpe": "cpe:2.3:a:apache:mesos",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.mesos:mesos"
+      }
+    ]
+  },
+  {
+    "id": "mina/core",
+    "purl": "pkg:asf/mina/core",
+    "cpe": "cpe:2.3:a:apache:mina",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.mina:mina-core"
+      }
+    ]
+  },
+  {
+    "id": "mina/sshd-common",
+    "purl": "pkg:asf/mina/sshd-common",
+    "cpe": "cpe:2.3:a:apache:sshd",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sshd:sshd-common"
+      }
+    ]
+  },
+  {
+    "id": "mina/sshd-core",
+    "purl": "pkg:asf/mina/sshd-core",
+    "cpe": "cpe:2.3:a:apache:sshd",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sshd:sshd-core"
+      }
+    ]
+  },
+  {
+    "id": "mina/sshd-mina",
+    "purl": "pkg:asf/mina/sshd-mina",
+    "cpe": "cpe:2.3:a:apache:sshd",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sshd:sshd-mina"
+      }
+    ]
+  },
+  {
+    "id": "mxnet",
+    "purl": "pkg:asf/mxnet",
+    "cpe": "cpe:2.3:a:apache:mxnet",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "mxnet"
+      }
+    ]
+  },
+  {
+    "id": "myfaces/core-module",
+    "purl": "pkg:asf/myfaces/core-module",
+    "cpe": "cpe:2.3:a:apache:myfaces",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.myfaces.core:myfaces-core-module"
+      }
+    ]
+  },
+  {
+    "id": "nifi",
+    "purl": "pkg:asf/nifi",
+    "cpe": "cpe:2.3:a:apache:nifi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi:nifi"
+      }
+    ]
+  },
+  {
+    "id": "nifi/framework-cluster-protocol",
+    "purl": "pkg:asf/nifi/framework-cluster-protocol",
+    "cpe": "cpe:2.3:a:apache:nifi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi:nifi-framework-cluster-protocol"
+      }
+    ]
+  },
+  {
+    "id": "nifi/registry-core",
+    "purl": "pkg:asf/nifi/registry-core",
+    "cpe": "cpe:2.3:a:apache:nifi_registry",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi.registry:nifi-registry-core"
+      }
+    ]
+  },
+  {
+    "id": "nifi/security",
+    "purl": "pkg:asf/nifi/security",
+    "cpe": "cpe:2.3:a:apache:nifi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi:nifi-security"
+      }
+    ]
+  },
+  {
+    "id": "nifi/single-user-utils",
+    "purl": "pkg:asf/nifi/single-user-utils",
+    "cpe": "cpe:2.3:a:apache:nifi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi:nifi-single-user-utils"
+      }
+    ]
+  },
+  {
+    "id": "nifi/web-api",
+    "purl": "pkg:asf/nifi/web-api",
+    "cpe": "cpe:2.3:a:apache:nifi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nifi:nifi-web-api"
+      }
+    ]
+  },
+  {
+    "id": "nutch",
+    "purl": "pkg:asf/nutch",
+    "cpe": "cpe:2.3:a:apache:nutch",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.nutch:nutch"
+      }
+    ]
+  },
+  {
+    "id": "ode",
+    "purl": "pkg:asf/ode",
+    "cpe": "cpe:2.3:a:apache:ode",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ode:ode"
+      }
+    ]
+  },
+  {
+    "id": "olingo/odata-client-core",
+    "purl": "pkg:asf/olingo/odata-client-core",
+    "cpe": "cpe:2.3:a:apache:olingo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.olingo:odata-client-core"
+      }
+    ]
+  },
+  {
+    "id": "olingo/odata-client-proxy",
+    "purl": "pkg:asf/olingo/odata-client-proxy",
+    "cpe": "cpe:2.3:a:apache:olingo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.olingo:odata-client-proxy"
+      }
+    ]
+  },
+  {
+    "id": "olingo/odata-server-core",
+    "purl": "pkg:asf/olingo/odata-server-core",
+    "cpe": "cpe:2.3:a:apache:olingo",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.olingo:odata-server-core"
+      }
+    ]
+  },
+  {
+    "id": "oozie/core",
+    "purl": "pkg:asf/oozie/core",
+    "cpe": "cpe:2.3:a:apache:oozie",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.oozie:oozie-core"
+      }
+    ]
+  },
+  {
+    "id": "openmeetings/parent",
+    "purl": "pkg:asf/openmeetings/parent",
+    "cpe": "cpe:2.3:a:apache:openmeetings",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.openmeetings:openmeetings-parent"
+      }
+    ]
+  },
+  {
+    "id": "opennlp/tools",
+    "purl": "pkg:asf/opennlp/tools",
+    "cpe": "cpe:2.3:a:apache:opennlp",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.opennlp:opennlp-tools"
+      }
+    ]
+  },
+  {
+    "id": "orc",
+    "purl": "pkg:asf/orc",
+    "cpe": "cpe:2.3:a:apache:orc",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.orc:orc"
+      }
+    ]
+  },
+  {
+    "id": "ozone/main",
+    "purl": "pkg:asf/ozone/main",
+    "cpe": "cpe:2.3:a:apache:ozone",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ozone:ozone-main"
+      }
+    ]
+  },
+  {
+    "id": "parquet",
+    "purl": "pkg:asf/parquet",
+    "cpe": "cpe:2.3:a:apache:parquet-mr",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "rg.apache.parquet:parquet"
+      }
+    ]
+  },
+  {
+    "id": "pdfbox",
+    "purl": "pkg:asf/pdfbox",
+    "cpe": "cpe:2.3:a:apache:pdfbox",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pdfbox:pdfbox"
+      }
+    ]
+  },
+  {
+    "id": "pdfbox/parent",
+    "purl": "pkg:asf/pdfbox/parent",
+    "cpe": "cpe:2.3:a:apache:pdfbox",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pdfbox:pdfbox-parent"
+      }
+    ]
+  },
+  {
+    "id": "pinot",
+    "purl": "pkg:asf/pinot",
+    "cpe": "cpe:2.3:a:apache:pinot",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pinot:pinot"
+      }
+    ]
+  },
+  {
+    "id": "poi",
+    "purl": "pkg:asf/poi",
+    "cpe": "cpe:2.3:a:apache:poi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.poi:poi"
+      }
+    ]
+  },
+  {
+    "id": "poi/scratchpad",
+    "purl": "pkg:asf/poi/scratchpad",
+    "cpe": "cpe:2.3:a:apache:poi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.poi:poi-scratchpad"
+      }
+    ]
+  },
+  {
+    "id": "portals/chatRoomDemo",
+    "purl": "pkg:asf/portals/chatRoomDemo",
+    "cpe": "cpe:2.3:a:apache:pluto",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.portals.pluto:chatRoomDemo"
+      }
+    ]
+  },
+  {
+    "id": "portals/jetspeed-commons",
+    "purl": "pkg:asf/portals/jetspeed-commons",
+    "cpe": "cpe:2.3:a:apache:jetspeed",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.portals.jetspeed-2:jetspeed-commons"
+      }
+    ]
+  },
+  {
+    "id": "portals/pluto-container",
+    "purl": "pkg:asf/portals/pluto-container",
+    "cpe": "cpe:2.3:a:apache:pluto",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.portals.pluto:pluto-container"
+      }
+    ]
+  },
+  {
+    "id": "portals/pluto-portal",
+    "purl": "pkg:asf/portals/pluto-portal",
+    "cpe": "cpe:2.3:a:apache:pluto",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.portals.pluto:pluto-portal"
+      }
+    ]
+  },
+  {
+    "id": "pulsar",
+    "purl": "pkg:asf/pulsar",
+    "cpe": "cpe:2.3:a:apache:pulsar",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pulsar:pulsar"
+      }
+    ]
+  },
+  {
+    "id": "pulsar/broker",
+    "purl": "pkg:asf/pulsar/broker",
+    "cpe": "cpe:2.3:a:apache:pulsar",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pulsar:pulsar-broker"
+      }
+    ]
+  },
+  {
+    "id": "pulsar/java-client",
+    "purl": "pkg:asf/pulsar/java-client",
+    "cpe": "cpe:2.3:a:apache:pulsar",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pulsar:pulsar-client"
+      }
+    ]
+  },
+  {
+    "id": "pulsar/proxy",
+    "purl": "pkg:asf/pulsar/proxy",
+    "cpe": "cpe:2.3:a:apache:pulsar",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.pulsar:pulsar-proxy"
+      }
+    ]
+  },
+  {
+    "id": "pulsar/python-client",
+    "purl": "pkg:asf/pulsar/python-client",
+    "cpe": "cpe:2.3:a:apache:pulsar",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "pulsar-client"
+      }
+    ]
+  },
+  {
+    "id": "qpid/broker",
+    "purl": "pkg:asf/qpid/broker",
+    "cpe": "cpe:2.3:a:apache:qpid_java",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.qpid:qpid-broker"
+      }
+    ]
+  },
+  {
+    "id": "qpid/broker-j",
+    "purl": "pkg:asf/qpid/broker-j",
+    "cpe": "cpe:2.3:a:apache:qpid_broker-j",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.qpid:apache-qpid-broker-j"
+      }
+    ]
+  },
+  {
+    "id": "qpid/proton-j",
+    "purl": "pkg:asf/qpid/proton-j",
+    "cpe": "cpe:2.3:a:apache:qpid_proton-j",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.qpid:proton-j"
+      }
+    ]
+  },
+  {
+    "id": "ranger",
+    "purl": "pkg:asf/ranger",
+    "cpe": "cpe:2.3:a:apache:ranger",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.ranger:ranger"
+      }
+    ]
+  },
+  {
+    "id": "rocketmq/broker",
+    "purl": "pkg:asf/rocketmq/broker",
+    "cpe": "cpe:2.3:a:apache:rocketmq",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.rocketmq:rocketmq-broker"
+      }
+    ]
+  },
+  {
+    "id": "santuario/xmlsec",
+    "purl": "pkg:asf/santuario/xmlsec",
+    "cpe": "cpe:2.3:a:apache:santuario_xml_security_for_java",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.santuario:xmlsec"
+      }
+    ]
+  },
+  {
+    "id": "sentry",
+    "purl": "pkg:asf/sentry",
+    "cpe": "cpe:2.3:a:apache:sentry",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sentry:sentry"
+      }
+    ]
+  },
+  {
+    "id": "servicecomb/java-chassis",
+    "purl": "pkg:asf/servicecomb/java-chassis",
+    "cpe": "cpe:2.3:a:apache:java_chassis",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.servicecomb:java-chassis"
+      }
+    ]
+  },
+  {
+    "id": "servicecomb/service-center",
+    "purl": "pkg:asf/servicecomb/service-center",
+    "cpe": "cpe:2.3:a:apache:servicecomb",
+    "ecosystems" : [
+      {
+        "ecosystem": "Go",
+        "name": "github.com/apache/servicecomb-service-center"
+      }
+    ]
+  },
+  {
+    "id": "shardingsphere",
+    "purl": "pkg:asf/shardingsphere",
+    "cpe": "cpe:2.3:a:apache:shardingsphere",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shardingsphere:shardingsphere"
+      }
+    ]
+  },
+  {
+    "id": "shardingsphere/proxy",
+    "purl": "pkg:asf/shardingsphere/proxy",
+    "cpe": "cpe:2.3:a:apache:shardingsphere",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shardingsphere:shardingsphere-proxy"
+      }
+    ]
+  },
+  {
+    "id": "shenyu",
+    "purl": "pkg:asf/shenyu",
+    "cpe": "cpe:2.3:a:apache:shenyu",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shenyu:shenyu"
+      }
+    ]
+  },
+  {
+    "id": "shenyu/admin",
+    "purl": "pkg:asf/shenyu/admin",
+    "cpe": "cpe:2.3:a:apache:shenyu",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shenyu:shenyu-admin"
+      }
+    ]
+  },
+  {
+    "id": "shenyu/bootstrap",
+    "purl": "pkg:asf/shenyu/bootstrap",
+    "cpe": "cpe:2.3:a:apache:shenyu",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shenyu:shenyu-bootstrap"
+      }
+    ]
+  },
+  {
+    "id": "shenyu/common",
+    "purl": "pkg:asf/shenyu/common",
+    "cpe": "cpe:2.3:a:apache:shenyu",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shenyu:shenyu-common"
+      }
+    ]
+  },
+  {
+    "id": "shiro/core",
+    "purl": "pkg:asf/shiro/core",
+    "cpe": "cpe:2.3:a:apache:shiro",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shiro:shiro-core"
+      }
+    ]
+  },
+  {
+    "id": "shiro/root",
+    "purl": "pkg:asf/shiro/root",
+    "cpe": "cpe:2.3:a:apache:shiro",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shiro:shiro-root"
+      }
+    ]
+  },
+  {
+    "id": "shiro/spring",
+    "purl": "pkg:asf/shiro/spring",
+    "cpe": "cpe:2.3:a:apache:shiro",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shiro:shiro-spring"
+      }
+    ]
+  },
+  {
+    "id": "shiro/spring-boot-starter",
+    "purl": "pkg:asf/shiro/spring-boot-starter",
+    "cpe": "cpe:2.3:a:apache:shiro",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shiro:shiro-spring-boot-starter"
+      }
+    ]
+  },
+  {
+    "id": "shiro/web",
+    "purl": "pkg:asf/shiro/web",
+    "cpe": "cpe:2.3:a:apache:shiro",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.shiro:shiro-web"
+      }
+    ]
+  },
+  {
+    "id": "skywalking/backend-js",
+    "purl": "pkg:asf/skywalking/backend-js",
+    "cpe": "cpe:2.3:a:apache:skywalking",
+    "ecosystems" : [
+      {
+        "ecosystem": "npm",
+        "name": "skywalking-backend-js"
+      }
+    ]
+  },
+  {
+    "id": "skywalking/oap-server",
+    "purl": "pkg:asf/skywalking/oap-server",
+    "cpe": "cpe:2.3:a:apache:skywalking",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.skywalking:oap-server"
+      }
+    ]
+  },
+  {
+    "id": "sling/api",
+    "purl": "pkg:asf/sling/api",
+    "cpe": "cpe:2.3:a:apache:sling_api",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.api"
+      }
+    ]
+  },
+  {
+    "id": "sling/cms",
+    "purl": "pkg:asf/sling/cms",
+    "cpe": "cpe:2.3:a:apache:sling_cms",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.cms"
+      }
+    ]
+  },
+  {
+    "id": "sling/commons.log",
+    "purl": "pkg:asf/sling/commons.log",
+    "cpe": "cpe:2.3:a:apache:sling_commons_log",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.commons.log"
+      }
+    ]
+  },
+  {
+    "id": "sling/commons.messaging.mail",
+    "purl": "pkg:asf/sling/commons.messaging.mail",
+    "cpe": "cpe:2.3:a:apache:sling_commons_messaging_mail",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.commons.messaging.mail"
+      }
+    ]
+  },
+  {
+    "id": "sling/i18n",
+    "purl": "pkg:asf/sling/i18n",
+    "cpe": "cpe:2.3:a:apache:sling_i18n",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.i18n"
+      }
+    ]
+  },
+  {
+    "id": "sling/jcr.base",
+    "purl": "pkg:asf/sling/jcr.base",
+    "cpe": "cpe:2.3:a:apache:sling_jcr_base",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.jcr.base"
+      }
+    ]
+  },
+  {
+    "id": "sling/servlets.post",
+    "purl": "pkg:asf/sling/servlets.post",
+    "cpe": "cpe:2.3:a:apache:sling_servlets_post",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.servlets.post"
+      }
+    ]
+  },
+  {
+    "id": "sling/xss",
+    "purl": "pkg:asf/sling/xss",
+    "cpe": "cpe:2.3:a:apache:sling_xss_protection_api",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.xss"
+      }
+    ]
+  },
+  {
+    "id": "sling/xss.compat",
+    "purl": "pkg:asf/sling/xss.compat",
+    "cpe": "cpe:2.3:a:apache:sling_xss_protection_api_compat",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.sling:org.apache.sling.xss.compat"
+      }
+    ]
+  },
+  {
+    "id": "solr/core",
+    "purl": "pkg:asf/solr/core",
+    "cpe": "cpe:2.3:a:apache:solr",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.solr:solr-core"
+      }
+    ]
+  },
+  {
+    "id": "solr/parent",
+    "purl": "pkg:asf/solr/parent",
+    "cpe": "cpe:2.3:a:apache:solr",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.solr:solr-parent"
+      }
+    ]
+  },
+  {
+    "id": "spark/core",
+    "purl": "pkg:asf/spark/core",
+    "cpe": "cpe:2.3:a:apache:spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-core"
+      },
+{
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-core_2.10"
+      },
+{
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-core_2.11"
+      }
+    ]
+  },
+  {
+    "id": "spark/core?scalaVersion=2.10",
+    "purl": "pkg:asf/spark/core?scalaVersion=2.10",
+    "cpe": "cpe:2.3:a:apache:spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-core_2.10"
+      }
+    ]
+  },
+  {
+    "id": "spark/core?scalaVersion=2.11",
+    "purl": "pkg:asf/spark/core?scalaVersion=2.11",
+    "cpe": "cpe:2.3:a:apache:spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-core_2.11"
+      }
+    ]
+  },
+  {
+    "id": "spark/parent?scalaVersion=2.11",
+    "purl": "pkg:asf/spark/parent?scalaVersion=2.11",
+    "cpe": "cpe:2.3:a:apache:spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.spark:spark-parent_2.11"
+      }
+    ]
+  },
+  {
+    "id": "spark/pyspark",
+    "purl": "pkg:asf/spark/pyspark",
+    "cpe": "cpe:2.3:a:apache:spark",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "pyspark"
+      }
+    ]
+  },
+  {
+    "id": "storm",
+    "purl": "pkg:asf/storm",
+    "cpe": "cpe:2.3:a:apache:storm",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.storm:storm"
+      }
+    ]
+  },
+  {
+    "id": "storm/core",
+    "purl": "pkg:asf/storm/core",
+    "cpe": "cpe:2.3:a:apache:storm",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.storm:storm-core"
+      }
+    ]
+  },
+  {
+    "id": "storm/kafka",
+    "purl": "pkg:asf/storm/kafka",
+    "cpe": "cpe:2.3:a:apache:storm",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.storm:storm-kafka"
+      }
+    ]
+  },
+  {
+    "id": "storm/kafka-client",
+    "purl": "pkg:asf/storm/kafka-client",
+    "cpe": "cpe:2.3:a:apache:storm",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.storm:storm-kafka-client"
+      }
+    ]
+  },
+  {
+    "id": "struts/struts2-core",
+    "purl": "pkg:asf/struts/struts2-core",
+    "cpe": "cpe:2.3:a:apache:struts",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.struts:struts2-core"
+      }
+    ]
+  },
+  {
+    "id": "struts/struts2-rest-plugin",
+    "purl": "pkg:asf/struts/struts2-rest-plugin",
+    "cpe": "cpe:2.3:a:apache:struts",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.struts:struts2-rest-plugin"
+      }
+    ]
+  },
+  {
+    "id": "struts/struts2-struts1-plugin",
+    "purl": "pkg:asf/struts/struts2-struts1-plugin",
+    "cpe": "cpe:2.3:a:apache:struts",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.struts:struts2-struts1-plugin"
+      }
+    ]
+  },
+  {
+    "id": "superset",
+    "purl": "pkg:asf/superset",
+    "cpe": "cpe:2.3:a:apache:superset",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "superset"
+      },
+{
+        "ecosystem": "PyPI",
+        "name": "apache-superset"
+      }
+    ]
+  },
+  {
+    "id": "synapse/core",
+    "purl": "pkg:asf/synapse/core",
+    "cpe": "cpe:2.3:a:apache:synapse",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.synapse:synapse-core"
+      }
+    ]
+  },
+  {
+    "id": "syncope",
+    "purl": "pkg:asf/syncope",
+    "cpe": "cpe:2.3:a:apache:syncope",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.syncope:syncope"
+      }
+    ]
+  },
+  {
+    "id": "syncope/client-enduser",
+    "purl": "pkg:asf/syncope/client-enduser",
+    "cpe": "cpe:2.3:a:apache:syncope",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.syncope.client:syncope-client-enduser"
+      }
+    ]
+  },
+  {
+    "id": "syncope/core",
+    "purl": "pkg:asf/syncope/core",
+    "cpe": "cpe:2.3:a:apache:syncope",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.syncope:syncope-core"
+      }
+    ]
+  },
+  {
+    "id": "systemds",
+    "purl": "pkg:asf/systemds",
+    "cpe": "cpe:2.3:a:apache:systemds",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.systemds:systemds"
+      }
+    ]
+  },
+  {
+    "id": "systemds/python",
+    "purl": "pkg:asf/systemds/python",
+    "cpe": "cpe:2.3:a:apache:systemds",
+    "ecosystems" : [
+      {
+        "ecosystem": "PyPI",
+        "name": "systemds"
+      }
+    ]
+  },
+  {
+    "id": "tapestry/core",
+    "purl": "pkg:asf/tapestry/core",
+    "cpe": "cpe:2.3:a:apache:tapestry",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tapestry:tapestry-core"
+      }
+    ]
+  },
+  {
+    "id": "tapestry/project",
+    "purl": "pkg:asf/tapestry/project",
+    "cpe": "cpe:2.3:a:apache:tapestry",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tapestry:tapestry-project"
+      }
+    ]
+  },
+  {
+    "id": "thrift",
+    "purl": "pkg:asf/thrift",
+    "cpe": "cpe:2.3:a:apache:thrift",
+    "ecosystems" : [
+      {
+        "ecosystem": "Go",
+        "name": "github.com/apache/thrift"
+      }
+    ]
+  },
+  {
+    "id": "thrift/libthrift",
+    "purl": "pkg:asf/thrift/libthrift",
+    "cpe": "cpe:2.3:a:apache:thrift",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.thrift:libthrift"
+      }
+    ]
+  },
+  {
+    "id": "tika",
+    "purl": "pkg:asf/tika",
+    "cpe": "cpe:2.3:a:apache:tika",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tika:tika"
+      }
+    ]
+  },
+  {
+    "id": "tika/core",
+    "purl": "pkg:asf/tika/core",
+    "cpe": "cpe:2.3:a:apache:tika",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tika:tika-core"
+      }
+    ]
+  },
+  {
+    "id": "tika/parsers",
+    "purl": "pkg:asf/tika/parsers",
+    "cpe": "cpe:2.3:a:apache:tika",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tika:tika-parsers"
+      }
+    ]
+  },
+  {
+    "id": "tomcat",
+    "purl": "pkg:asf/tomcat",
+    "cpe": "cpe:2.3:a:apache:tomcat",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tomcat:tomcat"
+      }
+    ]
+  },
+  {
+    "id": "tomcat/catalina",
+    "purl": "pkg:asf/tomcat/catalina",
+    "cpe": "cpe:2.3:a:apache:tomcat",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tomcat:tomcat-catalina"
+      }
+    ]
+  },
+  {
+    "id": "tomcat/embed-core",
+    "purl": "pkg:asf/tomcat/embed-core",
+    "cpe": "cpe:2.3:a:apache:tomcat",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.tomcat.embed:tomcat-embed-core"
+      }
+    ]
+  },
+  {
+    "id": "trafficcontrol",
+    "purl": "pkg:asf/trafficcontrol",
+    "cpe": "cpe:2.3:a:apache:traffic_control",
+    "ecosystems" : [
+      {
+        "ecosystem": "Go",
+        "name": "github.com/apache/trafficcontrol"
+      }
+    ]
+  },
+  {
+    "id": "trafficcontrol/traffic_ops",
+    "purl": "pkg:asf/trafficcontrol/traffic_ops",
+    "cpe": "cpe:2.3:a:apache:traffic_control",
+    "ecosystems" : [
+      {
+        "ecosystem": "Go",
+        "name": "github.com/apache/trafficcontrol/traffic_ops/traffic_ops_golang/login"
+      }
+    ]
+  },
+  {
+    "id": "uima/ducc-web",
+    "purl": "pkg:asf/uima/ducc-web",
+    "cpe": "cpe:2.3:a:apache:unstructured_information_management_architecture_distributed_uima_cluster_computing",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.uima:uima-ducc-web"
+      }
+    ]
+  },
+  {
+    "id": "uima/uimafit-core",
+    "purl": "pkg:asf/uima/uimafit-core",
+    "cpe": "cpe:2.3:a:apache:uimafit",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.uima:uimafit-core"
+      }
+    ]
+  },
+  {
+    "id": "uima/uimaj-as-core",
+    "purl": "pkg:asf/uima/uimaj-as-core",
+    "cpe": "cpe:2.3:a:apache:uimaj-as",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.uima:uimaj-as-core"
+      }
+    ]
+  },
+  {
+    "id": "uima/uimaj-core",
+    "purl": "pkg:asf/uima/uimaj-core",
+    "cpe": "cpe:2.3:a:apache:uimaj",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.uima:uimaj-core"
+      }
+    ]
+  },
+  {
+    "id": "unomi",
+    "purl": "pkg:asf/unomi",
+    "cpe": "cpe:2.3:a:apache:unomi",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.unomi:unomi"
+      }
+    ]
+  },
+  {
+    "id": "velocity",
+    "purl": "pkg:asf/velocity",
+    "cpe": "cpe:2.3:a:apache:velocity_engine",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.velocity:velocity"
+      }
+    ]
+  },
+  {
+    "id": "velocity/engine-parent",
+    "purl": "pkg:asf/velocity/engine-parent",
+    "cpe": "cpe:2.3:a:apache:velocity_engine",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.velocity:velocity-engine-parent"
+      }
+    ]
+  },
+  {
+    "id": "velocity/tools",
+    "purl": "pkg:asf/velocity/tools",
+    "cpe": "cpe:2.3:a:apache:velocity_tools",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.velocity:velocity-tools"
+      }
+    ]
+  },
+  {
+    "id": "velocity/tools-parent",
+    "purl": "pkg:asf/velocity/tools-parent",
+    "cpe": "cpe:2.3:a:apache:velocity_tools",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.velocity.tools:velocity-tools-parent"
+      }
+    ]
+  },
+  {
+    "id": "wicket/core",
+    "purl": "pkg:asf/wicket/core",
+    "cpe": "cpe:2.3:a:apache:wicket",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.wicket:wicket-core"
+      }
+    ]
+  },
+  {
+    "id": "ws/soap",
+    "purl": "pkg:asf/ws/soap",
+    "cpe": "cpe:2.3:a:apache:soap",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "soap:soap"
+      }
+    ]
+  },
+  {
+    "id": "ws/xmlrpc",
+    "purl": "pkg:asf/ws/xmlrpc",
+    "cpe": "cpe:2.3:a:apache:xml-rpc",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlrpc:xmlrpc"
+      }
+    ]
+  },
+  {
+    "id": "xalan",
+    "purl": "pkg:asf/xalan",
+    "cpe": "cpe:2.3:a:apache:xalan-java",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "xalan:xalan"
+      }
+    ]
+  },
+  {
+    "id": "xerces/xerces-j",
+    "purl": "pkg:asf/xerces/xerces-j",
+    "cpe": "cpe:2.3:a:apache:xerces-j",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "xerces:xercesImpl"
+      }
+    ]
+  },
+  {
+    "id": "xmlbeans",
+    "purl": "pkg:asf/xmlbeans",
+    "cpe": "cpe:2.3:a:apache:xmlbeans",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlbeans:xmlbeans"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/batik",
+    "purl": "pkg:asf/xmlgraphics/batik",
+    "cpe": "cpe:2.3:a:apache:batik",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:batik"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/batik-ttf2svg",
+    "purl": "pkg:asf/xmlgraphics/batik-ttf2svg",
+    "cpe": "cpe:2.3:a:apache:batik",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:batik-ttf2svg"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/batik-util",
+    "purl": "pkg:asf/xmlgraphics/batik-util",
+    "cpe": "cpe:2.3:a:apache:batik",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:batik-util"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/batik-xml",
+    "purl": "pkg:asf/xmlgraphics/batik-xml",
+    "cpe": "cpe:2.3:a:apache:batik",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:batik-xml"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/commons",
+    "purl": "pkg:asf/xmlgraphics/commons",
+    "cpe": "cpe:2.3:a:apache:xmlgraphics_commons",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:xmlgraphics-commons"
+      }
+    ]
+  },
+  {
+    "id": "xmlgraphics/fop",
+    "purl": "pkg:asf/xmlgraphics/fop",
+    "cpe": "cpe:2.3:a:apache:formatting_objects_processor",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.xmlgraphics:fop"
+      }
+    ]
+  },
+  {
+    "id": "zeppelin",
+    "purl": "pkg:asf/zeppelin",
+    "cpe": "cpe:2.3:a:apache:zeppelin",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.zeppelin:zeppelin"
+      }
+    ]
+  },
+  {
+    "id": "zookeeper",
+    "purl": "pkg:asf/zookeeper",
+    "cpe": "cpe:2.3:a:apache:zookeeper",
+    "ecosystems" : [
+      {
+        "ecosystem": "Maven",
+        "name": "org.apache.zookeeper:zookeeper"
+      }
+    ]
+  }
+]
